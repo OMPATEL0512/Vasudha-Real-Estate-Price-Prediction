@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: vasudha-real-estate
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn frontend:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: FLASK_SECRET_KEY
+        generateValue: true
+      - key: SMTP_HOST
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: 587
+      - key: SMTP_USERNAME
+        value: Vasudha.realestate.01@gmail.com
+      - key: SMTP_PASSWORD
+        sync: false
+      - key: SMTP_SENDER
+        value: Vasudha.realestate.01@gmail.com
