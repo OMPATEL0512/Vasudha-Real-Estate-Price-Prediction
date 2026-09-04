@@ -1,10 +1,11 @@
 <!-- ============================================================================== -->
-<!-- 🌌 VASUDHA REAL ESTATE (वसुधा) — REPOSITORY README -->
+<!-- 🏛️ VASUDHA REAL ESTATE (वसुधा) — OFFICIAL REPOSITORY README -->
 <!-- ============================================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052d4,100:00c6ff&height=240&section=header&text=VASUDHA%20REAL%20ESTATE&fontSize=46&fontAlignY=36&animation=fadeIn&desc=AI-Powered%20Ahmedabad%20Property%20Valuation%20%26%205-Year%20Forecasting%20Platform&descAlignY=58&fontColor=ffffff"/>
-</p>
+<div align="center">
+
+# 🏛️ VASUDHA REAL ESTATE (वसुधा)
+### ⚡ *AI-Powered Ahmedabad Property Valuation & 5-Year Capital Forecasting Platform*
 
 <p align="center">
   <a href="https://github.com/OMPATEL0512/Vasudha-Real-Estate-Price-Prediction">
@@ -23,6 +24,8 @@
   <img src="https://img.shields.io/badge/Accuracy-R%C2%B2%2099.7%25-00c853?style=for-the-badge" alt="Accuracy" />
   <img src="https://img.shields.io/badge/License-MIT-0072ff?style=for-the-badge" alt="License" />
 </p>
+
+</div>
 
 ---
 
@@ -170,7 +173,7 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 ```
-*(Optionally add your SMTP email credentials in `.env` for live OTP delivery).*
+*(Optionally configure your SMTP email settings in `.env` for live OTP delivery).*
 
 ### 4. Run the Application
 
@@ -224,19 +227,14 @@ OK (12/12 Tests Passing)
 
 ## 👨‍💻 Author
 
-<p align="center">
-  <b>Om Patel</b><br/>
-  <i>Full Stack & AI Developer | Machine Learning Enthusiast</i>
-</p>
+<div align="center">
+
+### **Om Patel**
+*Full Stack & AI Developer | Machine Learning Enthusiast*
 
 <p align="center">
   <a href="https://github.com/OMPATEL0512"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/om-patel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="mailto:ompatel94929@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052d4,100:00c6ff&height=100&section=footer"/>
-</p>
+</div>
